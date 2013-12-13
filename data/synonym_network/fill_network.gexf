@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="color" type="string" />
+    </attributes>
+    <nodes>
+      <node id="clog" label="clog">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="force" label="force">
+        <attvalues>
+          <attvalue for="0" value="g" />
+        </attvalues>
+      </node>
+      <node id="crowd" label="crowd">
+        <attvalues>
+          <attvalue for="0" value="g" />
+        </attvalues>
+      </node>
+      <node id="close" label="close">
+        <attvalues>
+          <attvalue for="0" value="g" />
+        </attvalues>
+      </node>
+      <node id="check" label="check">
+        <attvalues>
+          <attvalue for="0" value="g" />
+        </attvalues>
+      </node>
+      <node id="fill" label="fill">
+        <attvalues>
+          <attvalue for="0" value="r" />
+        </attvalues>
+      </node>
+      <node id="tote" label="tote">
+        <attvalues>
+          <attvalue for="0" value="g" />
+        </attvalues>
+      </node>
+      <node id="crush" label="crush">
+        <attvalues>
+          <attvalue for="0" value="g" />
+        </attvalues>
+      </node>
+      <node id="cram" label="cram">
+        <attvalues>
+          <attvalue for="0" value="g" />
+        </attvalues>
+      </node>
+      <node id="occlude" label="occlude">
+        <attvalues>
+          <attvalue for="0" value="g" />
+        </attvalues>
+      </node>
+      <node id="congest" label="congest">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="stop" label="stop">
+        <attvalues>
+          <attvalue for="0" value="g" />
+        </attvalues>
+      </node>
+      <node id="retard" label="retard">
+        <attvalues>
+          <attvalue for="0" value="g" />
+        </attvalues>
+      </node>
+      <node id="bear" label="bear">
+        <attvalues>
+          <attvalue for="0" value="g" />
+        </attvalues>
+      </node>
+      <node id="impede" label="impede">
+        <attvalues>
+          <attvalue for="0" value="g" />
+        </attvalues>
+      </node>
+      <node id="gorge" label="gorge">
+        <attvalues>
+          <attvalue for="0" value="g" />
+        </attvalues>
+      </node>
+      <node id="plug" label="plug">
+        <attvalues>
+          <attvalue for="0" value="g" />
+        </attvalues>
+      </node>
+      <node id="stopper" label="stopper">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="bar" label="bar">
+        <attvalues>
+          <attvalue for="0" value="g" />
+        </attvalues>
+      </node>
+      <node id="stuff" label="stuff">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="block" label="block">
+        <attvalues>
+          <attvalue for="0" value="g" />
+        </attvalues>
+      </node>
+      <node id="pack" label="pack">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="clog" target="retard" weight="3.05128205128" />
+      <edge id="1" source="clog" target="bar" weight="2.2037037037" />
+      <edge id="2" source="clog" target="congest" weight="1.37931034483" />
+      <edge id="3" source="clog" target="impede" weight="2.90243902439" />
+      <edge id="4" source="clog" target="check" weight="2.38" />
+      <edge id="5" source="clog" target="block" weight="2.53191489362" />
+      <edge id="6" source="clog" target="fill" weight="4.60606060606" />
+      <edge id="7" source="force" target="stuff" weight="5.84210526316" />
+      <edge id="8" source="crowd" target="pack" weight="2.59770114943" />
+      <edge id="9" source="close" target="stopper" weight="1.68965517241" />
+      <edge id="10" source="fill" target="stopper" weight="5.62962962963" />
+      <edge id="11" source="fill" target="stuff" weight="4.10810810811" />
+      <edge id="12" source="fill" target="congest" weight="4.47058823529" />
+      <edge id="13" source="fill" target="pack" weight="4.75" />
+      <edge id="14" source="tote" target="pack" weight="4.43137254902" />
+      <edge id="15" source="crush" target="pack" weight="4.61224489796" />
+      <edge id="16" source="cram" target="stuff" weight="5.16279069767" />
+      <edge id="17" source="occlude" target="congest" weight="1.73913043478" />
+      <edge id="18" source="congest" target="stopper" weight="1.53846153846" />
+      <edge id="19" source="congest" target="stuff" weight="1.73913043478" />
+      <edge id="20" source="stop" target="stopper" weight="1.96" />
+      <edge id="21" source="bear" target="pack" weight="4.70833333333" />
+      <edge id="22" source="gorge" target="stuff" weight="5.41463414634" />
+      <edge id="23" source="plug" target="stopper" weight="1.81481481481" />
+      <edge id="24" source="stuff" target="pack" weight="4.61224489796" />
+    </edges>
+  </graph>
+</gexf>

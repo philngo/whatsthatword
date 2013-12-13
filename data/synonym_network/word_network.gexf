@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="color" type="string" />
+    </attributes>
+    <nodes>
+      <node id="just like that" label="just like that">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="without a hitch" label="without a hitch">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="coolly" label="coolly">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="ram in" label="ram in">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="held" label="held">
+        <attvalues>
+          <attvalue for="0" value="r" />
+        </attvalues>
+      </node>
+      <node id="as good as" label="as good as">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="enclose" label="enclose">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="or only" label="or only">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="impact" label="impact">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="it could be" label="it could be">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="fix" label="fix">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="competently" label="competently">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="to" label="to">
+        <attvalues>
+          <attvalue for="0" value="r" />
+        </attvalues>
+      </node>
+      <node id="lodge" label="lodge">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="or else" label="or else">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="regularly" label="regularly">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="uncomplicatedly" label="uncomplicatedly">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="drive in" label="drive in">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="or but" label="or but">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="pierce" label="pierce">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="all but" label="all but">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="on the other hand" label="on the other hand">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="nearly" label="nearly">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="press" label="press">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="insert" label="insert">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="facing" label="facing">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="either" label="either">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="for all intents and purposes" label="for all intents and purposes">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="calmly" label="calmly">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="facilely" label="facilely">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="nigh" label="nigh">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="smoothly" label="smoothly">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="close to" label="close to">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="nothing to it" label="nothing to it">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="fundamentally" label="fundamentally">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="no sweat" label="no sweat">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="contained" label="contained">
+        <attvalues>
+          <attvalue for="0" value="r" />
+        </attvalues>
+      </node>
+      <node id="hand over fist" label="hand over fist">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="with ease" label="with ease">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="could be" label="could be">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="dig in" label="dig in">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="as a substitute" label="as a substitute">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="tacit" label="tacit">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="surely" label="surely">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="hammer in" label="hammer in">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="dexterously" label="dexterously">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="well-nigh" label="well-nigh">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="fluently" label="fluently">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="bury" label="bury">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="in effect" label="in effect">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="essentially" label="essentially">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="might be" label="might be">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="without trouble" label="without trouble">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="most" label="most">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="swimmingly" label="swimmingly">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="freely" label="freely">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="in essence" label="in essence">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="feasible" label="feasible">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="preferentially" label="preferentially">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="like nothing" label="like nothing">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="steadily" label="steadily">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="conveniently" label="conveniently">
+        <attvalues>
+          <attvalue for="0" value="r" />
+        </attvalues>
+      </node>
+      <node id="or" label="or">
+        <attvalues>
+          <attvalue for="0" value="r" />
+        </attvalues>
+      </node>
+      <node id="credible" label="credible">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="via" label="via">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="hands down" label="hands down">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="plainly" label="plainly">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="as it may be" label="as it may be">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="set" label="set">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="simply" label="simply">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="piece of cake" label="piece of cake">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="as an alternative" label="as an alternative">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="readily" label="readily">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="infix" label="infix">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="conceivably" label="conceivably">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="approximately" label="approximately">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="quickly" label="quickly">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="obtainable" label="obtainable">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="much" label="much">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="inlay" label="inlay">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="conceivable" label="conceivable">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="put into" label="put into">
+        <attvalues>
+          <attvalue for="0" value="r" />
+        </attvalues>
+      </node>
+      <node id="inferential" label="inferential">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="plunge" label="plunge">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="about" label="about">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="basically" label="basically">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="handily" label="handily">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="morally" label="morally">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="unexpressed" label="unexpressed">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="install" label="install">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="weather permitting" label="weather permitting">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="root" label="root">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="lightly" label="lightly">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="can be" label="can be">
+        <attvalues>
+          <attvalue for="0" value="r" />
+        </attvalues>
+      </node>
+      <node id="comfortably" label="comfortably">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="stick in" label="stick in">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="conversely" label="conversely">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="in turn" label="in turn">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="as much as" label="as much as">
+        <attvalues>
+          <attvalue for="0" value="r" />
+        </attvalues>
+      </node>
+      <node id="ingrain" label="ingrain">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="perhaps" label="perhaps">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="stuff in" label="stuff in">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="virtually" label="virtually">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="in other words" label="in other words">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="tuck in" label="tuck in">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="plant" label="plant">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="effortlessly" label="effortlessly">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="in preference to" label="in preference to">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="with no effort" label="with no effort">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="imaginably" label="imaginably">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="perchance" label="perchance">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="efficiently" label="efficiently">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="as a choice" label="as a choice">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="practically" label="practically">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="well" label="well">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="inferred" label="inferred">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="thrust in" label="thrust in">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="implied" label="implied">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="deposit" label="deposit">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="fasten" label="fasten">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+      <node id="evenly" label="evenly">
+        <attvalues>
+          <attvalue for="0" value="b" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="just like that" target="conveniently" weight="1.5" />
+      <edge id="1" source="without a hitch" target="conveniently" weight="1.5" />
+      <edge id="2" source="coolly" target="conveniently" weight="1.5" />
+      <edge id="3" source="ram in" target="put into" weight="1.33333333333" />
+      <edge id="4" source="as good as" target="as much as" weight="1.0" />
+      <edge id="5" source="enclose" target="put into" weight="1.33333333333" />
+      <edge id="6" source="or only" target="or" weight="1.0" />
+      <edge id="7" source="impact" target="put into" weight="1.33333333333" />
+      <edge id="8" source="it could be" target="can be" weight="1.0" />
+      <edge id="9" source="fix" target="put into" weight="1.33333333333" />
+      <edge id="10" source="competently" target="conveniently" weight="1.5" />
+      <edge id="11" source="to" target="facing" weight="1.5" />
+      <edge id="12" source="to" target="via" weight="1.5" />
+      <edge id="13" source="lodge" target="put into" weight="1.33333333333" />
+      <edge id="14" source="or else" target="or" weight="1.0" />
+      <edge id="15" source="regularly" target="conveniently" weight="1.5" />
+      <edge id="16" source="uncomplicatedly" target="conveniently" weight="1.5" />
+      <edge id="17" source="drive in" target="put into" weight="1.33333333333" />
+      <edge id="18" source="or but" target="or" weight="1.0" />
+      <edge id="19" source="pierce" target="put into" weight="1.33333333333" />
+      <edge id="20" source="all but" target="as much as" weight="1.0" />
+      <edge id="21" source="on the other hand" target="or" weight="1.0" />
+      <edge id="22" source="nearly" target="as much as" weight="1.0" />
+      <edge id="23" source="press" target="put into" weight="1.33333333333" />
+      <edge id="24" source="insert" target="put into" weight="1.33333333333" />
+      <edge id="25" source="either" target="or" weight="1.0" />
+      <edge id="26" source="for all intents and purposes" target="as much as" weight="1.0" />
+      <edge id="27" source="calmly" target="conveniently" weight="1.5" />
+      <edge id="28" source="facilely" target="conveniently" weight="1.5" />
+      <edge id="29" source="nigh" target="as much as" weight="1.0" />
+      <edge id="30" source="smoothly" target="conveniently" weight="1.33333333333" />
+      <edge id="31" source="close to" target="as much as" weight="1.0" />
+      <edge id="32" source="nothing to it" target="conveniently" weight="1.5" />
+      <edge id="33" source="fundamentally" target="as much as" weight="1.0" />
+      <edge id="34" source="no sweat" target="conveniently" weight="1.5" />
+      <edge id="35" source="contained" target="inferential" weight="1.71428571429" />
+      <edge id="36" source="contained" target="implied" weight="1.71428571429" />
+      <edge id="37" source="contained" target="inferred" weight="1.71428571429" />
+      <edge id="38" source="contained" target="tacit" weight="1.71428571429" />
+      <edge id="39" source="contained" target="unexpressed" weight="1.71428571429" />
+      <edge id="40" source="hand over fist" target="conveniently" weight="1.5" />
+      <edge id="41" source="with ease" target="conveniently" weight="1.5" />
+      <edge id="42" source="could be" target="can be" weight="1.0" />
+      <edge id="43" source="dig in" target="put into" weight="1.33333333333" />
+      <edge id="44" source="as a substitute" target="or" weight="1.0" />
+      <edge id="45" source="surely" target="conveniently" weight="1.5" />
+      <edge id="46" source="hammer in" target="put into" weight="1.33333333333" />
+      <edge id="47" source="dexterously" target="conveniently" weight="1.5" />
+      <edge id="48" source="well-nigh" target="as much as" weight="1.0" />
+      <edge id="49" source="fluently" target="conveniently" weight="1.5" />
+      <edge id="50" source="bury" target="put into" weight="1.33333333333" />
+      <edge id="51" source="in effect" target="as much as" weight="1.0" />
+      <edge id="52" source="essentially" target="as much as" weight="1.0" />
+      <edge id="53" source="might be" target="can be" weight="1.0" />
+      <edge id="54" source="without trouble" target="conveniently" weight="1.5" />
+      <edge id="55" source="most" target="as much as" weight="1.0" />
+      <edge id="56" source="swimmingly" target="conveniently" weight="1.09090909091" />
+      <edge id="57" source="freely" target="conveniently" weight="1.5" />
+      <edge id="58" source="in essence" target="as much as" weight="1.0" />
+      <edge id="59" source="feasible" target="can be" weight="1.0" />
+      <edge id="60" source="preferentially" target="or" weight="1.0" />
+      <edge id="61" source="like nothing" target="conveniently" weight="1.5" />
+      <edge id="62" source="steadily" target="conveniently" weight="1.5" />
+      <edge id="63" source="conveniently" target="hands down" weight="1.5" />
+      <edge id="64" source="conveniently" target="plainly" weight="1.5" />
+      <edge id="65" source="conveniently" target="comfortably" weight="1.5" />
+      <edge id="66" source="conveniently" target="simply" weight="1.5" />
+      <edge id="67" source="conveniently" target="piece of cake" weight="1.5" />
+      <edge id="68" source="conveniently" target="quickly" weight="1.5" />
+      <edge id="69" source="conveniently" target="lightly" weight="1.5" />
+      <edge id="70" source="conveniently" target="readily" weight="1.5" />
+      <edge id="71" source="conveniently" target="effortlessly" weight="1.5" />
+      <edge id="72" source="conveniently" target="with no effort" weight="1.5" />
+      <edge id="73" source="conveniently" target="efficiently" weight="1.5" />
+      <edge id="74" source="conveniently" target="handily" weight="1.33333333333" />
+      <edge id="75" source="conveniently" target="well" weight="1.09090909091" />
+      <edge id="76" source="conveniently" target="evenly" weight="1.5" />
+      <edge id="77" source="or" target="in turn" weight="1.0" />
+      <edge id="78" source="or" target="as a choice" weight="1.0" />
+      <edge id="79" source="or" target="in preference to" weight="1.0" />
+      <edge id="80" source="or" target="in other words" weight="1.0" />
+      <edge id="81" source="or" target="as an alternative" weight="1.0" />
+      <edge id="82" source="or" target="conversely" weight="1.0" />
+      <edge id="83" source="credible" target="can be" weight="1.0" />
+      <edge id="84" source="as it may be" target="can be" weight="1.0" />
+      <edge id="85" source="set" target="put into" weight="1.33333333333" />
+      <edge id="86" source="infix" target="put into" weight="1.33333333333" />
+      <edge id="87" source="conceivably" target="can be" weight="1.0" />
+      <edge id="88" source="approximately" target="as much as" weight="1.0" />
+      <edge id="89" source="obtainable" target="can be" weight="1.0" />
+      <edge id="90" source="much" target="as much as" weight="1.0" />
+      <edge id="91" source="inlay" target="put into" weight="1.33333333333" />
+      <edge id="92" source="conceivable" target="can be" weight="1.0" />
+      <edge id="93" source="put into" target="ingrain" weight="1.33333333333" />
+      <edge id="94" source="put into" target="stuff in" weight="1.33333333333" />
+      <edge id="95" source="put into" target="tuck in" weight="1.33333333333" />
+      <edge id="96" source="put into" target="plant" weight="1.33333333333" />
+      <edge id="97" source="put into" target="plunge" weight="1.33333333333" />
+      <edge id="98" source="put into" target="stick in" weight="1.33333333333" />
+      <edge id="99" source="put into" target="thrust in" weight="1.33333333333" />
+      <edge id="100" source="put into" target="deposit" weight="1.33333333333" />
+      <edge id="101" source="put into" target="install" weight="1.33333333333" />
+      <edge id="102" source="put into" target="fasten" weight="1.33333333333" />
+      <edge id="103" source="put into" target="root" weight="1.33333333333" />
+      <edge id="104" source="about" target="as much as" weight="1.0" />
+      <edge id="105" source="basically" target="as much as" weight="1.0" />
+      <edge id="106" source="morally" target="as much as" weight="1.0" />
+      <edge id="107" source="weather permitting" target="can be" weight="1.0" />
+      <edge id="108" source="can be" target="perchance" weight="1.0" />
+      <edge id="109" source="can be" target="perhaps" weight="1.0" />
+      <edge id="110" source="can be" target="imaginably" weight="1.0" />
+      <edge id="111" source="as much as" target="practically" weight="1.0" />
+      <edge id="112" source="as much as" target="virtually" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>
